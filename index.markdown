@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Hello?
+# Hello, I am Gorkem. A computer engineering student at Bahcesehir University. I am interested in entrepreneurship.

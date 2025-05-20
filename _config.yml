@@ -28,7 +28,7 @@ twitter_username: gorkem_efe__
 github_username:  GorkemEfe1
 
 # Build settings
-theme: Hacker
+theme: minima
 plugins:
   - jekyll-feed
 
