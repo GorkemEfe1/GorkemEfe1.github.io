@@ -23,7 +23,7 @@ email: gorkemefe588@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog and a portfolio site for Gorkem Efe.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gorkemefe.com.tr/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gorkem_efe__
 github_username:  GorkemEfe1
 
