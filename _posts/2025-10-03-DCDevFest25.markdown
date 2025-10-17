@@ -2,5 +2,6 @@
 layout: post
 title:  "Hackaton Victory and DC DevFest25"
 ---
-![My team Fintrust gets 4th place!](<WhatsApp Image 2025-10-03 at 17.41.39_75ae8b11.jpg>)
-![DC Devfest25](<Screenshot 2025-10-17 181653.png>)
+<img src="/assets/img/Fintrust.jpg">
+<img src="/assets/img/DC Devfest25.png">
+
