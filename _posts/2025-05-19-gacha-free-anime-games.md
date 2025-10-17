@@ -1,6 +1,0 @@
----
-layout: post
-title:  "Gacha-Free Anime Games: A curated list for burnt out players"
----
-
-Hello! Like many of you I have also been burnt by gacha games. The fomo, the aggressive marketing, the overly sexualised characters and the toxic vocal part of the of the community have pretty much killed my love for games as a whole. Geniunly I rarely play games anymore but I don't want that to be the final destination for everyone. Even though people call it a waste of time I know what it means to all of us and losing that can almost feel like losing your own life. I light of this I have decided to create a list (currently small but growing) of anime games that offer an alternative to gachas and maybe allow you to get back in touch with gaming and get over your burn out. Games are meant to be fun and if a game is making you stressed then you don't really have a place to go because life will always be more stressful. Here is the link to it:  [nogacha Anime Games List](https://docs.google.com/spreadsheets/d/e/2PACX-1vRi5ox_TltdaVYDk1eCtodOSb9jTJ8zsSu0usFOECj_gx7WH8xL9YahY9H2EwmquUzX2JoTrO9kT7ES/pubhtml)
